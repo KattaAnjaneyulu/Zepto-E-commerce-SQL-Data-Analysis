@@ -76,7 +76,18 @@ This project analyzes the product inventory of **Zepto**, one of India's fastest
 
 ## 👤 Author
 
-**Katta_Anjaneyulu**, MSc Data Science | Aspiring Data Analyst
+### **Katta Anjaneyulu**
 
-[💼LinkedIn](https://www.linkedin.com/in/kattaanjaneyulu/)
-[💻GitHub](https://github.com/KattaAnjaneyulu)
+🎓 MSc Data Science Graduate | Osmania University
+
+📍 Hyderabad, India
+
+🎯 Aspiring Data Analyst / Data Scientist
+
+🗄️ SQL &nbsp;|&nbsp; 📊 Power BI &nbsp;|&nbsp; 📗 Excel &nbsp;|&nbsp; 🐍 Python
+
+🔗 **Connect with me**
+
+- [💼 LinkedIn](https://www.linkedin.com/in/kattaanjaneyulu)
+- [🐙 GitHub](https://github.com/KattaAnjaneyulu)
+- [📧 Email](https://mail.google.com/mail/?view=cm&to=kattaanjaneyulu.k@gmail.com)
